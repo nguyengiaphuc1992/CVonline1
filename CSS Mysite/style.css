@@ -1,0 +1,26 @@
+table, td,th {
+  border: 1px  solid black;
+  border-collapse:collapse;
+  background: rgba(155, 180, 199,0.1)
+}
+
+h1,h3{
+
+color: #66BFBF;
+
+}
+
+body{
+  background-color: lightcyan;
+
+}
+hr{
+background-color: none;
+border-style: dotted none none none;
+border-width: 9px;
+border-color: grey;
+
+height: 0px;
+width: 7%;
+
+}
